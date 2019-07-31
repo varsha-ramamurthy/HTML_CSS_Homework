@@ -1,6 +1,6 @@
 # HTML_CSS_Homework
--HTML visualization of Python API Homework utilizing CSS and Bootstrap
--The goal of this homework assignment was to create a website showing climate data in different cities across the world and compare climatic properties (city temperature, humidity, cloudiness, wind speed) with the latitude of the respective city. Each web-page showed the data visualization of these comparisons, and also tabulated these numbers.
+- HTML visualization of Python API Homework utilizing CSS and Bootstrap
+- The goal of this homework assignment was to create a website showing climate data in different cities across the world and compare climatic properties (city temperature, humidity, cloudiness, wind speed) with the latitude of the respective city. Each web-page showed the data visualization of these comparisons, and also tabulated these numbers.
 
 ## Steps Taken to Complete Homework
 - The graphs from the Python API homework were obtained and saved in an images folder
